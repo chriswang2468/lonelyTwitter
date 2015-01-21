@@ -21,9 +21,10 @@ public abstract class User extends Object
 		super();
 		this.name = name; //name=n;
 	}
-	public User(){
-		super();
-		name="anonymous";
-	}
 	
+//	public void User(){
+//		super();
+//		name="anonymous";
+//	}
+//	
 }
